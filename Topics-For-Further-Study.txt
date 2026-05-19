@@ -1,0 +1,132 @@
+# Topics to Study next
+# Roughly ordered by most compelling.
+------------
+
+Next to Act on:
+---------------
+Meetup 
+Bigquery
+Spark
+SQL
+Apache Beam
+Python
+dbt 
+Docker, Kubernetes, GKE
+Kafka 
+Kinesis
+Pulsar
+Google Pub/Sub
+Google Data Flow
+Google Cloud Platform
+Flink
+GCS
+Google Cloud Professional Data Engineer
+Google Cloud Associate Cloud Engineer
+
+---------------
+Futures
+---------------
+S3
+AWS Professional Data Engineer
+Kudu 
+Ceph
+Airflow , Dagster
+Git (GitHub, Gitlab)
+CI/CD
+Linux / CentOS
+bash
+Snowflake
+Databricks
+DataOps 
+Data modeling 
+Data Science
+Define engineering 
+Cassandra 
+Hbase
+BigTable
+MongoDB
+Java
+Scala
+Bill Inmon - 60 books
+TOGAF
+Ralph Kimball
+Data Vault
+Amazon DynamoDB
+AWS 
+Azure
+Modern data stack 
+Data Management Maturity
+Data Catalogs
+ML engineering 
+Statistics 
+Technical writing 
+Agile 
+Problem solving 
+Communication 
+Requirements gathering
+DevOps
+FinOps
+Find Remote Data engineering jobs to apply for and research 
+Data architecture 
+Software engineering 
+Simple MapReduce program
+NumPy 
+APIs
+PyTorch
+PySpark 
+Sci-kit learn
+TensorFlow
+Debezium
+JSON 
+Avro
+Parquet 
+R
+Go
+Rust
+Julia
+C#
+Zookeeper
+Kerberos 
+Finish. Degree
+Get MS degree prepare to teach
+SRE
+Algorithms 
+Projects
+Capital One
+AI 
+Deep Learning
+Neural network
+https://towardsdatascience.com/
+ElasticSearxh
+Memcached 
+Redis
+Solr 
+Lucene 
+ChatGPT-4
+Predictive analytics 
+Teal - job search portal
+Indeed - upload resume 
+LinkedIn - upload resume
+Certified Data Management Professional - CDMP
+Arcitura Certified Big Data Architect 
+TOGAF 9 certification program
+https://www.cio.com
+Design patterns
+Solution architecture 
+Data lineage
+Data governance 
+Chaos monkey
+AWS Lambda
+Google Cloud Functions 
+Data Mesh
+Amazon RedShift
+NoSQL database type: key-value
+NoSQL database type:document 
+NoSQL database type: wide column
+NoSQL database type: graph Neo4J
+NoSQL database type: search Elasticsearch
+NoSQL database type: time series 
+REST APIs
+GraphQL APIs
+Web hooks 
+gRPC

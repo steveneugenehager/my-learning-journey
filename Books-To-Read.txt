@@ -1,0 +1,19 @@
+# Books to read next
+# Roughly ordered by most compelling.
+------------
+Next Up:
+Designing Data-Intensive Applications 	Martin Kleppmann
+------------
+Future Plans
+------------
+Fundamentals of Software Architecture 	Mark Richard's
+Software Architecture: The Hard Parts	Neal Ford
+Martin Fowler	
+Cloud FinOps	
+Data Mesh	Dehghani
+Building Data Pipelines with Python 	
+Data Wrangling with Python	Katharine Jarmul
+Database Internals	Alex Petrov 
+Database System Concepts	Avi Silbetschatz
+Data Teams	Jesse Anderson
+Building Analytics Teams	John Thompson 
