@@ -4,8 +4,6 @@ Date       | Title                            | Chapter/Section Title
 Category = Data Engineering Overview
 YYYY-MM-DD | Fundamentals of Data Engineering | Appendix A. Serialization and Compression Technical Details
 
-2026-05-20 | Data Engineering with GCP        | 01. Fundamentals of Data Engineering
-2026-05-20 | Data Engineering with GCP        | 02. Big Data Capabilities on GCP
 2026-05-20 | Data Engineering with GCP        | 03. Building a Data Warehouse in BigQuery
 2026-05-20 | Data Engineering with GCP        | 04. Building Workflows for Batch Data Loading Using Cloud Composer
 2026-05-20 | Data Engineering with GCP        | 05. Building a Data Lake Using Dataproc

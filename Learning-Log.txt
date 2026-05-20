@@ -1,7 +1,8 @@
 -----------+----------------------------------+------------------------------------------------------------------
 Date       | Title                            | Chapter/Section Title
 -----------+----------------------------------+------------------------------------------------------------------
-2026-05-20 | Data Engineering with GCP        |
+2026-05-20 | Data Engineering with GCP        | #2. Big Data Capabilities on GCP
+2026-05-20 | Data Engineering with GCP        | #1. Fundamentals of Data Engineering
 2026-05-19 | Fundamentals of Data Engineering | Appendix B. Cloud Networking
 2026-05-19 | Fundamentals of Data Engineering | #11. The Future of Data Engineering
 2026-05-19 | Fundamentals of Data Engineering | #10. Security and Privacy
