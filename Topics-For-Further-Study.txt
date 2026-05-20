@@ -7,13 +7,12 @@ Next to Act on:
 Meetup 
 Bigquery
 Spark
+Databricks
 SQL
 Apache Beam
 Python
 dbt 
 Docker, Kubernetes, GKE
-Kafka 
-Kinesis
 Pulsar
 Google Pub/Sub
 Google Data Flow
@@ -26,8 +25,12 @@ Google Cloud Associate Cloud Engineer
 ---------------
 Futures
 ---------------
-S3
+Open Source Software
+  Kafka 
+
 AWS Professional Data Engineer
+    S3
+    Kinesis
 Kudu 
 Ceph
 Airflow , Dagster
@@ -36,7 +39,6 @@ CI/CD
 Linux / CentOS
 bash
 Snowflake
-Databricks
 DataOps 
 Data modeling 
 Data Science
@@ -130,3 +132,6 @@ REST APIs
 GraphQL APIs
 Web hooks 
 gRPC
+Analytics / Serving
+  - Apache Superset/Preset
+  - Looker

@@ -2,14 +2,80 @@
 # Roughly ordered by most compelling.
 ------------
 Next Up:
+Google Cloud Professional Data Engineer Certification - Question Bank Study Guide (Bought on Kindle; Not available on oreilly.com)
+Google Cloud Certified Professional Data Engineer Certification Guide (ordered old version in paperback - arriving 5/27)
+**********
+CHECKPOINT
+**********
+    Register for Google Cloud Certified Professional Data Engineer Certification Exam (Buy the retake to reduce stress of "rushing it")
+    Pass Google Cloud Certified Professional Data Engineer Certification Exam
+    APPLY TO HEB - principal data engineer role
+*****************
+END OF CHECKPOINT
+*****************
+
+Data Engineering for Beginners
+Data Engineering Best Practices
+
+Introduction to Apache Flink            Ellen Friedman
+Data Pipelines with Apache Airflow, Second Edition
+Practical Data Engineering with Apache Projects: Solving Everyday Data Challenges with Spark, Iceberg, Kafka, Flink, and More
+Data Engineering Design Patterns
+Cracking the Data Engineering Interview
+97 Things Every Data Engineer Should Know
+Data Engineering with Python
+Data Engineering with dbt
+Analytics Engineering with SQL and dbt
+Data Engineering with Azure Databricks
+Data Engineering with Databricks Cookbook
+Snowflake Data Engineering
+Building Data Integration Solutions
+Modern Data Engineering with Apache Spark: A Hands-On Guide for Building Mission-Critical Streaming Applications
+Data Engineering with Apache Spark, Delta Lake, and Lakehouse By Manoj Kukreja
+Data Analysis with Python and PySpark
+Data Engineering with Scala and Spark
+The Definitive Guide to Data Integration
+Introduction to Data Vault for Data Warehousing” by Simon Kitching
+Fundamentals of Analytics Engineering
+Learning SQL, 3rd Edition
+Financial Data Engineering
+Data Engineering with AWS - Second Edition
+Data Engineering with AWS Cookbook
+AWS Certified Data Engineer Associate Study Guide
+AWS Certified Data Engineer Study Guide
+Data Observability for Data Engineering
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow — Aurélien Géron
+Feature Engineering for Machine Learning — Alice Zheng & Amanda Casari
+Machine Learning Engineering — Andriy Burkov
+Data Engineering and Data Science
+Dive Into Data Science
+Learning Data Science
+Data Engineering for Machine Learning Pipelines: From Python Libraries to ML Pipelines and Cloud Platforms
+Software Engineering for Data Scientists
+Perspectives on Data Science for Software Engineering
+Data Engineering on Azure
+The Data Engineer's Guide to Microsoft Fabric
+Microsoft Fabric Data Engineer (DP-700) Study Guide
+Azure Data Engineer Associate Certification Guide - Second
+MCA Microsoft Certified Associate Azure Data Engineer Study Guide
+Azure Data Factory by Example: Practical Implementation for Data Engineers
+Azure Data Engineering Cookbook - Second Edition
+Engineering Data Mesh in Azure Cloud
+The Definitive Guide to Azure Data Engineering: Modern ELT, DevOps, and Analytics on the Azure Cloud Platform
+
 Designing Data-Intensive Applications 	Martin Kleppmann
 ------------
 Future Plans
 ------------
+Fundamentals of Software Engineering
+Deciphering Data Architectures
+
 Fundamentals of Software Architecture 	Mark Richard's
 Software Architecture: The Hard Parts	Neal Ford
+The Software Engineer's Guidebook
 Martin Fowler	
 Cloud FinOps	
+Learning Chaos Engineering
 Data Mesh	Dehghani
 Building Data Pipelines with Python 	
 Data Wrangling with Python	Katharine Jarmul
@@ -17,3 +83,9 @@ Database Internals	Alex Petrov
 Database System Concepts	Avi Silbetschatz
 Data Teams	Jesse Anderson
 Building Analytics Teams	John Thompson 
+
+User Stories for Data Products
+    User Story Mapping — Jeff Patton 
+    Inspired: How To Create Products Customers Love — Marty Cagan
+    Lean UX — Jeff Gothelf & Josh Seiden
+    Mapping Experiences — Jim Kalbach

@@ -1,0 +1,26 @@
+-----------+----------------------------------+------------------------------------------------------------------
+Date       | Title                            | Chapter/Section Title
+-----------+----------------------------------+------------------------------------------------------------------
+Category = Data Engineering Overview
+YYYY-MM-DD | Fundamentals of Data Engineering | Appendix A. Serialization and Compression Technical Details
+
+2026-05-20 | Data Engineering with GCP        | 01. Fundamentals of Data Engineering
+2026-05-20 | Data Engineering with GCP        | 02. Big Data Capabilities on GCP
+2026-05-20 | Data Engineering with GCP        | 03. Building a Data Warehouse in BigQuery
+2026-05-20 | Data Engineering with GCP        | 04. Building Workflows for Batch Data Loading Using Cloud Composer
+2026-05-20 | Data Engineering with GCP        | 05. Building a Data Lake Using Dataproc
+2026-05-20 | Data Engineering with GCP        | 06. Processing Streaming Data with Pub/Sub and Dataflow
+2026-05-20 | Data Engineering with GCP        | 07. Visualizing Data to Make Data-Driven Decisions with Looker Studio
+2026-05-20 | Data Engineering with GCP        | 08. Building Machine Learning Solutions on GCP
+2026-05-20 | Data Engineering with GCP        | 09. User and Project Management in GCP
+2026-05-20 | Data Engineering with GCP        | 10. Data Governance in GCP
+2026-05-20 | Data Engineering with GCP        | 11. Cost Strategy in GCP
+2026-05-20 | Data Engineering with GCP        | 12. CI/CD on GCP for Data Engineers
+2026-05-20 | Data Engineering with GCP        | 13. Boosting Your Confidence as a Data Engineer
+
+YYYY-MM-DD | GC Pro Data Engineer Cert-Question Bank | 1 Practice Test
+YYYY-MM-DD | GC Pro Data Engineer Cert-Question Bank | 2 Practice Test
+YYYY-MM-DD | GC Pro Data Engineer Cert-Question Bank | 3 Practice Test
+YYYY-MM-DD | GC Pro Data Engineer Cert-Question Bank | 4 Practice Test
+YYYY-MM-DD | GC Pro Data Engineer Cert-Question Bank | 5 Practice Test
+YYYY-MM-DD | GC Pro Data Engineer Cert-Question Bank | 6 Practice Test

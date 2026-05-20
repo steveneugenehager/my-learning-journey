@@ -1,0 +1,16 @@
+************************************************************************************
+Starburst - https://www.starburst.io/careers/open-roles/
+ - Customer Support Engineer
+    - URL https://www.starburst.io/careers/open-roles/?job=5137911008
+    - $95,000—$120,000 USD
+    - Some of the things we look for: 
+        - Big Data (Hadoop, Data Lakes, Spark)
+        - Docker and Kubernetes
+        - Cloud technologies (AWS, Azure, GCP)
+        - Security
+            - Authentication (LDAP, OAuth2.0)
+            - Authorization technologies
+        - SSL/TLS
+        - Linux Skills
+        - DBMS Concepts/SQL Exposure 
+        - Languages: SQL, Java, Python, Bash
